@@ -1,4 +1,4 @@
-package com.ted.smartscheduler.api
+package com.ted.fluffy.api
 
 import io.reactivex.Single
 import retrofit2.http.GET

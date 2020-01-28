@@ -1,4 +1,4 @@
-package com.ted.smartscheduler.api
+package com.ted.fluffy.api
 
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers

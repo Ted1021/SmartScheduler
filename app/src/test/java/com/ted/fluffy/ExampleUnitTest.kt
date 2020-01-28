@@ -1,4 +1,4 @@
-package com.ted.smartscheduler
+package com.ted.fluffy
 
 import org.junit.Test
 
